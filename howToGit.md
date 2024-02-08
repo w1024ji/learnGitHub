@@ -57,4 +57,8 @@ reset과는 달리 내용이 사라지지 않는다!!
 # test branch를 만들었다
 
 
-#이것은 test2 branch 생성
+# 이것은 test2 branch 생성
+
+# 뭔가를 작업 중.... 음... 기능 만드는 중.....
+# 의미 있는 기능이 되었다.  
+# Horrayyyyyy
