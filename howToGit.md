@@ -53,21 +53,8 @@ reset과는 달리 내용이 사라지지 않는다!!
 - 다른 브랜치로 체크아웃 하기 전에 현재 작업내용을 저장하는 임시 저장소
 - 유용하니 잘 사용하자.
 - branch를 만들어서 덮어쓰는 방법도 있긴 한데 stash가 더 좋다고.. 한다
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
-
-# test branch를 만들었다
->>>>>>> test
-=======
-=======
->>>>>>> Stashed changes
 
 # test branch를 만들었다
 
-- 의미 없는 내용. 하다 만 기능. 만들다 만 기능......들... 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+#이것은 test2 branch 생성
